@@ -1,0 +1,6 @@
+{
+  "name": "Teema's Collections",
+  "description": "Premium Feminine Luxury Thrift e-commerce store with user cart, wishlist, payment simulation, and a full-featured merchant dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
